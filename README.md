@@ -38,6 +38,7 @@ If you're interested in my professional experience and skills, you can check out
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
+[E Commerce Website](https://mrfrankinc.vercel.app/projects.html): An online website where users can order and buy goods.<br/>
 [Cake Recipes App](https://mrfrankinc.vercel.app/projects.html): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
 [Talkify](https://github.com/Avinash905/HealthBooker): This is a chatring platform where you can chat & connect with  your loved ones, manage profiles, and send pics & videos.<br/>
 
@@ -51,7 +52,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 </div>
 <br/>
 
-<h2>ЁЯЫая╕П Tools and Technologies</h2>
+<h2> Tools and Technologies</h2>
 
 <br/>
 
@@ -138,9 +139,9 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" /> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" /> </a>
 </div>
-<br/>
+<br/
 
-<h4>Other Technologies</h4>
+<h4>My Other Technologies</h4>
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
@@ -177,7 +178,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
     <img title="ЁЯФе Get streak stats for your profile at git.io/streak-stats" alt="Darrell's streak" src="https://streak-stats.demolab.com/?user=ZwSyntax&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<h3>ЁЯТ╗ GitHub Profile Stats</h3>
+<h3>Darrell's GitHub Profile Stats</h3>
 
 <img alt="Darrell's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ZwSyntax&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
