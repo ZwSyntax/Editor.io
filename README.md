@@ -113,61 +113,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<h4>Data Science:</h4>
-<div align="center">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
-      alt="scikit_learn"
-    />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&color=afd6fa"
-      alt="matplotlib"
-    />
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" /> </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img
-      src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
-      alt="tensorflow"
-    />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" /> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" /> </a>
-</div>
-<br/
-
-<h4>My Other Technologies</h4>
-<div align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia" /> </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /> </a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render" /> </a>
-<a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify" /> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
-<a href="https://unity.com/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"
-    alt="unity"
-  />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
-    alt="arduino"
-  />
-</a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" /> </a> 
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
-</div>
-
-<br />
-<hr />
+<br/>
 <br />
 
 <h2>Darrell's Github Stats and Activity</h2>
