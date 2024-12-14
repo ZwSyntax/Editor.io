@@ -30,7 +30,7 @@ I'm passionate about Web Development, Data Science, and Game Development and I l
 
 If you're interested in my professional experience and skills, you can check out my resume.
 
-[![Resume](https://img.shields.io/badge/Dunna%20Avinash-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://mrfrankinc.vercel.app)
+[![Resume](https://img.shields.io/badge/Darrell%20Mucheri-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://mrfrankinc.vercel.app)
 
 <br/>
 
